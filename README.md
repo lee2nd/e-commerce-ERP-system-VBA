@@ -1,19 +1,22 @@
-# E-Commerce-ERP-System
+E-commerce ERP System — VBA-based CRM Automation
 
-This side project was developed from 2019 and stiil upgrading.</br> 
-Mainly used for 3 e-commerce platform CRM data, like yahoo, ruten and shopee and coded in excel vba language.</br> 
+This side project has been in development since 2019 and is still being upgraded. It was built primarily to manage CRM data across three major e-commerce platforms — Yahoo, Ruten, and Shopee — and is coded entirely in Excel VBA.
 
-The feature include:
-1. Automated computing.
-2. Automated separating the summary information into 2 parts.
-3. Thoughtful UX.
-4. Concise UI.
-5. Data visualization.
-6. Customized drop down list.
+Key Features:
 
-The most difficult points:
-1. With 2 users using simultaneously, and it must separate the summary information into A, B part.
-2. It needed to update some platform fee ratio high frequency.
-3. User can't wait too long for upgrading.
+Automated computation of key metrics
+Automated separation of summary information into two parts
+Thoughtful UX design
+Concise, user-friendly UI
+Data visualization
+Customizable dropdown lists
 
-This side projects was totally completed by myself and the coding technique was trained when I was in the ACNielsen. More importantly, this project brought me some extra income. Credited to my manager, "Lavan". Thanks!
+Key Challenges:
+
+Supporting two users working simultaneously required splitting summary data into separate A/B sections to avoid conflicts
+Platform fee ratios needed frequent updates due to high-frequency changes
+Users couldn't tolerate long downtime during upgrades, so updates had to be fast and non-disruptive
+
+The initial build took about one month to complete, and the project has generated approximately NT$20,000 in extra income to date.
+
+This project was designed and built entirely by myself, drawing on VBA coding techniques I first learned during my time at ACNielsen. Special thanks to my manager, Lavan, for the opportunity and support.
