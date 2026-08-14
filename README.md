@@ -1,4 +1,4 @@
-# E-commerce ERP System (VBA → Streamlit)
+# E-commerce ERP System (VBA)
 
 This side project has been in development since 2019, originally built to manage CRM data across three major e-commerce platforms — **Yahoo, Ruten, and Shopee**. It was initially coded entirely in **Excel VBA**, and has since been refactored into a Streamlit app:
 
